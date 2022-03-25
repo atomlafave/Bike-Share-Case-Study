@@ -1,3 +1,6 @@
+
+README.md --> Hiring Managers: I recommend checking out the PDF rendered version of this analysis where it shows the visualizations and R outputs
+
 ---
 title: "Bike-Share Case Study"
 author: "Adam LaFave"
